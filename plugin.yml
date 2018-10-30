@@ -1,0 +1,11 @@
+name: Konmmand
+main: chaca142\KC
+author: chaca142
+version: 1.0.0
+api:
+  - 4.0.0
+  - 3.3.1
+description: コマンドで挨拶
+commands:
+  kon:
+    description: "/kon 挨拶"
